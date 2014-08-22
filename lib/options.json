@@ -1,0 +1,8 @@
+{
+    "URL": "http://purple.com",
+    "HTTP_METHOD": "GET",
+    "REQ_BODY": {},
+    "REQ_HEADERS": {},
+    "NUM_PASSES": 10,
+    "NUM_REQUESTS": 15
+}
