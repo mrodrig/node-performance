@@ -1,6 +1,7 @@
 # Node HTTP Performance Analysis Tool
 
 ![David - Dependency Checker Icon](https://david-dm.org/mrodrig/node-performance.png "node-performance Dependency Status")
+[![bitHound Score](https://www.bithound.io/github/mrodrig/node-performance/badges/score.svg)](https://www.bithound.io/github/mrodrig/node-performance)
 
 ## Installation
 
