@@ -2,7 +2,7 @@
     "author": "mrodrig",
     "name": "node-performance",
     "description": "A HTTP performance analysis tool.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "repository": {
         "type": "git",
     	"url": "http://github.com/mrodrig/node-performance.git"
@@ -22,9 +22,9 @@
         "endpoint"
     ],
     "dependencies": {
-        "request": "2.64.0",
-    	"underscore": "1.8.3",
-    	"async": "1.4.2"
+        "request": "~2.65.0",
+    	"underscore": "~1.8.3",
+    	"async": "~1.5.0"
     },
     "devDependencies": {},
     "engines": {
