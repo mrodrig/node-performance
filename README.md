@@ -1,7 +1,8 @@
 # Node HTTP Performance Analysis Tool
 
-![David - Dependency Checker Icon](https://david-dm.org/mrodrig/node-performance.png "node-performance Dependency Status")
-[![bitHound Score](https://www.bithound.io/github/mrodrig/node-performance/badges/score.svg)](https://www.bithound.io/github/mrodrig/node-performance)
+[![Dependencies](https://img.shields.io/david/mrodrig/node-performance.svg?style=flat-square)](https://www.npmjs.org/package/node-performance)
+[![NPM version](https://img.shields.io/npm/v/node-performance.svg)](https://www.npmjs.org/package/node-performance)
+[![Known Vulnerabilities](https://snyk.io/test/npm/node-performance/badge.svg)](https://snyk.io/test/npm/node-performance)
 
 ## Installation
 

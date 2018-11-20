@@ -2,14 +2,14 @@
     "author": "mrodrig",
     "name": "node-performance",
     "description": "A HTTP performance analysis tool.",
-    "version": "0.0.6",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "http://github.com/mrodrig/node-performance.git"
     },
-    "main": "./lib/performance.js",
+    "main": "./src/performance.js",
     "scripts": {
-        "test": "./node_modules/.bin/mocha --reporter spec"
+        "test": "echo 'No tests specified' && exit 1"
     },
     "keywords": [
         "node",
@@ -22,12 +22,12 @@
         "endpoint"
     ],
     "dependencies": {
-        "request": "~2.72.0",
-        "underscore": "~1.8.x",
-        "async": "~1.5.x"
+        "request": "2.88.0",
+        "underscore": "1.9.1",
+        "async": "2.6.1"
     },
     "devDependencies": {},
     "engines": {
-        "node": "*"
+        "node": ">=6"
     }
 }
