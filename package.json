@@ -23,7 +23,7 @@
     ],
     "dependencies": {
         "request": "2.88.2",
-        "underscore": "1.10.2",
+        "underscore": "1.12.1",
         "async": "2.6.3"
     },
     "devDependencies": {},
