@@ -22,7 +22,7 @@
         "endpoint"
     ],
     "dependencies": {
-        "async": "2.6.3",
+        "async": "2.6.4",
         "request": "2.88.2",
         "underscore": "^1.13.1"
     },
